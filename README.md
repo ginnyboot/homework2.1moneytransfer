@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.5 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/ginnyboot/homework2.1moneytransfer/issues/1
+* [Неверная итоговая сумма на балансе клиента при переводе денежных средств](https://github.com/ginnyboot/homework2.1moneytransfer/issues/1)
 
 ## Описание процесса тестирования
 
@@ -15,7 +15,7 @@
 * Данные о значении текущего баланса клиента: 2 000 000 000
 * Данные о сумме перевода на баланс клиента: 500 000 000
 
-Данные взяты из текста домашнего задания: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+Данные взяты из [текста домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
 
